@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌐 Tech Enthusiast | 💻 Open-source Contributor<br>💡 Passionate about the world of technology, I'm on a journey to explore and learn everything this field has to offer.<br>🌱 As an avid learner, I'm constantly seeking new opportunities to expand my knowledge and skills<br>🌟 Open-source software and collaboration are at the heart of technological progress. <br>
 
+<img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahulpatil5234/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-patil-312192253) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rahulpatil5234) 
